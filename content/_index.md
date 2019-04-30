@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+title: "Ashley's LAB!"
+featured_image: 'https://live.staticflickr.com/7810/33688537718_c0fe18211b_k.jpg'
+description: "Thoughts, stories,ideas and hopefully some working prototypes!"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to my blog with some of my work in progress.
