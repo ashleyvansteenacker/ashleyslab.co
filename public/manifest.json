@@ -2,7 +2,7 @@
     "name": "Ashley's LAB!",
     "short_name": "Ashl.ee",
     "theme_color": "#000000",
-    "background_color": "#000",
+    "background_color": "#000000",
     "display": "standalone",
     "Scope": "/",
     "start_url": "https://ashl.ee",
