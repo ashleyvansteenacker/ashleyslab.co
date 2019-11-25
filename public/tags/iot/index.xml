@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IOT on Ashley&#39;sLAB!</title>
+    <link>https://ashleyslab.co/tags/iot/</link>
+    <description>Recent content in IOT on Ashley&#39;sLAB!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2016 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://ashleyslab.co/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IOT As we know it today &#43; rant</title>
+      <link>https://ashleyslab.co/posts/iot-as-we-know-it-today-&#43;-rant/</link>
+      <pubDate>Mon, 31 Oct 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://ashleyslab.co/posts/iot-as-we-know-it-today-&#43;-rant/</guid>
+      <description>There are well over 6.4 billion connected devices out there today. with an expectation of 20.8 billion by 2020.1
+Well thats great. And I can definitely understand why you would want to have a DVR or an HVAC system that&amp;rsquo;s &amp;ldquo;smart&amp;rdquo;. When you are leaving from work you can record your favourite show or turn up the heating. It&amp;rsquo;s great if you can do those things remotely. But are they really that secure?</description>
+    </item>
+    
+  </channel>
+</rss>

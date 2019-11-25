@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashley&#39;s LAB! on Ashley&#39;sLAB!</title>
+    <link>https://ashleyslab.co/</link>
+    <description>Recent content in Ashley&#39;s LAB! on Ashley&#39;sLAB!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Apr 2019 17:43:57 +0200</lastBuildDate>
+    
+	<atom:link href="https://ashleyslab.co/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Projects</title>
+      <link>https://ashleyslab.co/projects/test-project/</link>
+      <pubDate>Sun, 28 Apr 2019 17:43:57 +0200</pubDate>
+      
+      <guid>https://ashleyslab.co/projects/test-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using the J Tech Photonics Laser add-on (2.8W)</title>
+      <link>https://ashleyslab.co/posts/using-the-j-tech-photonics-laser-add-on-2-8w.1/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://ashleyslab.co/posts/using-the-j-tech-photonics-laser-add-on-2-8w.1/</guid>
+      <description>A while back I’ve bought a J Tech Photonics laser add-on for my X-Carve CNC mill. It wasn’t cheap. I paid €405 for the complete set. This included: The laser and driver module, the 3D printed mounting kit + fan and a pair of safety glasses.  The laser set: taken by Robosavvy 
+The installation   Mike Merzke at Merzke Custom Woodworking has made a great video showing his installation of the laser kit to his X Carve.</description>
+    </item>
+    
+    <item>
+      <title>IOT As we know it today &#43; rant</title>
+      <link>https://ashleyslab.co/posts/iot-as-we-know-it-today-&#43;-rant/</link>
+      <pubDate>Mon, 31 Oct 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://ashleyslab.co/posts/iot-as-we-know-it-today-&#43;-rant/</guid>
+      <description>There are well over 6.4 billion connected devices out there today. with an expectation of 20.8 billion by 2020.1
+Well thats great. And I can definitely understand why you would want to have a DVR or an HVAC system that&amp;rsquo;s &amp;ldquo;smart&amp;rdquo;. When you are leaving from work you can record your favourite show or turn up the heating. It&amp;rsquo;s great if you can do those things remotely. But are they really that secure?</description>
+    </item>
+    
+    <item>
+      <title>Cheap Hot Air Rework Station (with teardown)</title>
+      <link>https://ashleyslab.co/posts/cheap-hot-air-rework-station/</link>
+      <pubDate>Wed, 21 Sep 2016 11:14:48 -0400</pubDate>
+      
+      <guid>https://ashleyslab.co/posts/cheap-hot-air-rework-station/</guid>
+      <description>A long time ago I&amp;rsquo;ve found myself in need for a Hot Air Rework Station. Then the search on Amazon and other sites started. The Hakko ones are a bit pricy and the JBC&amp;rsquo;s are way to expensive. Aliexpress to the rescue.
+ A 858D on Aliexpress  And then I saw this. I thought for 50€ why not? It might not be the best but eh, what could go wrong.</description>
+    </item>
+    
+    <item>
+      <title>Bresser Biorit ICD CS (review)</title>
+      <link>https://ashleyslab.co/posts/bresser-biorit-icd-cs-/</link>
+      <pubDate>Mon, 12 Sep 2016 11:25:05 -0400</pubDate>
+      
+      <guid>https://ashleyslab.co/posts/bresser-biorit-icd-cs-/</guid>
+      <description>So a while back i&amp;rsquo;ve decided to buy a stereoscopic microscope. Not a microscope to look at bacteria but a microscope to look at microchips.
+ The QFN48 I&#39;ve replaced on my C.H.I.P  I&amp;rsquo;ve been looking around and I saw that Louis from The Rossmann Repair Group uses an Amscope microscope and so does Jessa from Ipadrehab.
+Ok! let&amp;rsquo;s shop for an Amscope then. yeah, you&amp;rsquo;d end up paying more import duties then what the actual microscope is worth.</description>
+    </item>
+    
+    <item>
+      <title>USB type C Mod time!</title>
+      <link>https://ashleyslab.co/posts/usb-type-c-mod-time/</link>
+      <pubDate>Fri, 24 Jun 2016 11:15:58 -0400</pubDate>
+      
+      <guid>https://ashleyslab.co/posts/usb-type-c-mod-time/</guid>
+      <description>What is type C? USB type C is a new way of combining multiple types of connections/signals in to one single connector. For example this single connector contains: a usb 3.0 connection, a usb 2.0 connection, a displayport connection, Analog audio out. And it can both receive and generate power to either charge the device or supply power when your device acts as a &amp;ldquo;Host&amp;rdquo; this is truly a magnificent connector.</description>
+    </item>
+    
+    <item>
+      <title>DIY solder stencils</title>
+      <link>https://ashleyslab.co/posts/diy-solmder_stencils/</link>
+      <pubDate>Mon, 30 May 2016 11:13:32 -0400</pubDate>
+      
+      <guid>https://ashleyslab.co/posts/diy-solmder_stencils/</guid>
+      <description>So you&amp;rsquo;ve made a few printed circuit boards (PCB&amp;rsquo;s) and now you have to manually solder all of those tiny 0402 SMD components. Or you are just curious how you can make your life easier when soldering a lot of SMD components. Search no more!
+It&#39;s Stencil time! You&amp;rsquo;ve probably heard of stencils before and they are everywhere. Think of those: letter stencils, paint stencils and well I can go on with this list until the cows come home.</description>
+    </item>
+    
+    <item>
+      <title>Doel, Belgium&#39;s Ghost town</title>
+      <link>https://ashleyslab.co/posts/doel-belgiums-ghost-town/</link>
+      <pubDate>Sun, 24 Apr 2016 11:00:59 -0400</pubDate>
+      
+      <guid>https://ashleyslab.co/posts/doel-belgiums-ghost-town/</guid>
+      <description>Doel is located near the border of the Netherlands. It&amp;rsquo;s also right next to the port of Antwerp and the famous nuclear reactor that has cracks in it&amp;rsquo;s nuclear reservoir also beter knows as Doel I.
+Doel is threatened with complete demolition due to the future enlargement of the port of Antwerp. However, Doel has played an important role in the 17th century. They had one of the two famous forts.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ashleyslab.co/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashleyslab.co/contact/</guid>
+      <description>Want to get in touch with me? Fill out the form below to send me a message and I will try to get back to you within 24 hours!
+Your NameEmail AddressAn email address is required.Message</description>
+    </item>
+    
+  </channel>
+</rss>
