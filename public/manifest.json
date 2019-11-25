@@ -3,9 +3,9 @@
     "short_name": "Ashl.ee",
     "theme_color": "#000000",
     "background_color": "#000",
-    "display": "browser",
+    "display": "standalone",
     "Scope": "/",
-    "start_url": "/",
+    "start_url": "https://ashl.ee",
     "icons": [
       {
         "src": "images/icons/icon-72x72.png",
