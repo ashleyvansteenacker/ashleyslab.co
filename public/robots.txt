@@ -3,3 +3,4 @@ User-agent: *
 
   Disallow: /
 
+Sitemap: https://ashl.ee/sitemap.xml
