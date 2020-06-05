@@ -3,110 +3,117 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ashl.ee/</loc>
+    <loc>https//ashl.ee/</loc>
     <lastmod>2019-04-28T17:43:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ashl.ee/projects/test-project/</loc>
+    <loc>https//ashl.ee/projects/test-project/</loc>
     <lastmod>2019-04-28T17:43:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ashl.ee/tags/</loc>
+    <loc>https//ashl.ee/tags/</loc>
     <lastmod>2017-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ashl.ee/posts/using-the-j-tech-photonics-laser-add-on-2-8w.1/</loc>
+    <loc>https//ashl.ee/posts/using-the-j-tech-photonics-laser-add-on-2-8w.1/</loc>
     <lastmod>2017-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ashl.ee/posts/</loc>
+    <loc>https//ashl.ee/posts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ashl.ee/projects/</loc>
+    <loc>https//ashl.ee/projects/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ashl.ee/tags/iot/</loc>
+    <loc>https//ashl.ee/tags/iot/</loc>
     <lastmod>2016-10-31T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ashl.ee/posts/iot-as-we-know-it-today-&#43;-rant/</loc>
+    <loc>https//ashl.ee/posts/iot-as-we-know-it-today-&#43;-rant/</loc>
     <lastmod>2016-10-31T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ashl.ee/posts/cheap-hot-air-rework-station/</loc>
+    <loc>https//ashl.ee/offline/</loc>
+    <lastmod>2016-10-16T19:28:41+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https//ashl.ee/posts/cheap-hot-air-rework-station/</loc>
     <lastmod>2016-09-21T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ashl.ee/posts/bresser-biorit-icd-cs-/</loc>
+    <loc>https//ashl.ee/posts/bresser-biorit-icd-cs-/</loc>
     <lastmod>2016-09-12T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ashl.ee/posts/usb-type-c-mod-time/</loc>
+    <loc>https//ashl.ee/posts/usb-type-c-mod-time/</loc>
     <lastmod>2016-06-24T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ashl.ee/posts/diy-solmder_stencils/</loc>
+    <loc>https//ashl.ee/posts/diy-solmder_stencils/</loc>
     <lastmod>2016-05-30T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ashl.ee/posts/doel-belgiums-ghost-town/</loc>
+    <loc>https//ashl.ee/posts/doel-belgiums-ghost-town/</loc>
     <lastmod>2016-04-24T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ashl.ee/about/</loc>
+    <loc>https//ashl.ee/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ashl.ee/categories/</loc>
+    <loc>https//ashl.ee/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ashl.ee/contact/</loc>
+    <loc>https//ashl.ee/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

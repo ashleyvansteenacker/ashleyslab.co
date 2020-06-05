@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ashley&#39;sLAB!</title>
-    <link>https://ashl.ee/projects/</link>
+    <link>https//ashl.ee/projects/</link>
     <description>Recent content in Projects on Ashley&#39;sLAB!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://ashl.ee/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https//ashl.ee/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test Projects</title>
-      <link>https://ashl.ee/projects/test-project/</link>
+      <link>https//ashl.ee/projects/test-project/</link>
       <pubDate>Sun, 28 Apr 2019 17:43:57 +0200</pubDate>
       
-      <guid>https://ashl.ee/projects/test-project/</guid>
+      <guid>https//ashl.ee/projects/test-project/</guid>
       <description></description>
     </item>
     
